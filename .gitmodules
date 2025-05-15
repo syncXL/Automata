@@ -1,0 +1,3 @@
+[submodule "agent_utils"]
+	path = agent_utils
+	url = https://github.com/syncXL/agents_utils
