@@ -1,9 +1,0 @@
-langchain_core==0.3.59
-langchain_google_genai==2.1.4
-langgraph==0.4.3
-protobuf==6.31.0
-pydantic==2.11.4
-PyQt5==5.15.11
-PyQt5_sip==12.17.0
-python-dotenv==1.1.0
-typing_extensions==4.13.2
